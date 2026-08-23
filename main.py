@@ -5,6 +5,8 @@ import warnings
 from pathlib import Path
 from dotenv import load_dotenv
 
+#deploed link:   https://ai-realtime-gym-app.streamlit.app/
+
 # Load environment variables from .env in project root
 load_dotenv()
 
